@@ -1,11 +1,3 @@
-def func(          ):
+def func():
 
-
-
-
-    print('hi')
-
-
-
-
-
+    print("hi")
