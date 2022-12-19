@@ -1,0 +1,6 @@
+certifi==2022.12.7
+charset-normalizer==2.1.1
+entegywrapper @ git+ssh://git@github.com/SituDevelopment/python3-entegy-API-wrapper.git@a55a3a9504dd30bf6bf6ee6219485185a2f4cbc5
+idna==3.4
+requests==2.28.1
+urllib3==1.26.13
