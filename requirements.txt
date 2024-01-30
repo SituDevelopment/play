@@ -8,7 +8,7 @@ idna==3.6
 mypy-extensions==1.0.0
 pathspec==0.12.1
 platformdirs==4.1.0
-pydantic==2.5.3
+pydantic==2.6.0
 pymongo==4.6.1
 requests==2.31.0
 tomli==2.0.1
