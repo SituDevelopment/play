@@ -243,13 +243,13 @@ wmi = ["wmi (>=1.5.1)"]
 
 [[package]]
 name = "entegywrapper"
-version = "7.2.4"
+version = "7.2.8"
 description = "Python SDK for the Entegy API"
 optional = false
 python-versions = "<4.0.0,>=3.10.0"
 files = [
-    {file = "entegywrapper-7.2.4-py3-none-any.whl", hash = "sha256:8435d674b15d41abbc9b325dc1d918b420a914728f2c44b195bc59ea987b1214"},
-    {file = "entegywrapper-7.2.4.tar.gz", hash = "sha256:86f8a5d46ca8ee02f96f1b7417551b3e0163d13d10767a023b7069ac88c48d1a"},
+    {file = "entegywrapper-7.2.8-py3-none-any.whl", hash = "sha256:af2c9f19d914309c75d06747e635f73e68c95af9a07a7b85a2c2edc26f85a506"},
+    {file = "entegywrapper-7.2.8.tar.gz", hash = "sha256:d6141fe63072aacbb72e99ad2fbf2908afcfa9bcccf260bbf52f6cf37917c2eb"},
 ]
 
 [package.dependencies]
@@ -634,4 +634,4 @@ zstd = ["zstandard (>=0.18.0)"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "c615c9fa40748b5350a31ae76ddafd6eb318db1a26e9df1a46f2447fc203da8e"
+content-hash = "90645abd048139120d568a51d9149d4579c6f96e2a6dd754dc985684295f5eb9"
