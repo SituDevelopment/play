@@ -243,18 +243,18 @@ wmi = ["wmi (>=1.5.1)"]
 
 [[package]]
 name = "entegywrapper"
-version = "7.2.8"
+version = "8.0.1"
 description = "Python SDK for the Entegy API"
 optional = false
 python-versions = "<4.0.0,>=3.10.0"
 files = [
-    {file = "entegywrapper-7.2.8-py3-none-any.whl", hash = "sha256:af2c9f19d914309c75d06747e635f73e68c95af9a07a7b85a2c2edc26f85a506"},
-    {file = "entegywrapper-7.2.8.tar.gz", hash = "sha256:d6141fe63072aacbb72e99ad2fbf2908afcfa9bcccf260bbf52f6cf37917c2eb"},
+    {file = "entegywrapper-8.0.1-py3-none-any.whl", hash = "sha256:cb47522fb82c262250690e11c320a546aa4f9a0dc5ded96ee699d4184ab59f99"},
+    {file = "entegywrapper-8.0.1.tar.gz", hash = "sha256:02ad96f0c3a524c10315cfc7ee120c366db95fae7ede2cec9bd2eec65294cdd5"},
 ]
 
 [package.dependencies]
 pydantic = ">=2.6.0,<3.0.0"
-requests = ">=2.31.0,<2.32.0"
+requests = ">=2.31,<2.33"
 
 [[package]]
 name = "idna"
@@ -625,4 +625,4 @@ zstd = ["zstandard (>=0.18.0)"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "13c662c516eff8bcb5ed8260bd6ddaa9e061bc5bd753548550974f5b82fae06a"
+content-hash = "b34abca964b0cd92e9f870d414b5f68128030449ae96aa260113d1ba4563be4e"
